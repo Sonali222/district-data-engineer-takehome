@@ -1,0 +1,9 @@
+# Five-minute walkthrough script
+
+1. Run `python src/pipeline.py day1` and show the resulting `outputs/meridian.db`. The pipeline stores raw payloads and file/row lineage, validates source contracts, normalizes invoice references/statuses and ticket priorities, and quarantines rows that cannot be safely modeled.
+2. Show `load_report` and `quarantine`. The v1 billing file contains duplicate invoice IDs; non-USD invoices without a currency/month FX rate are quarantined rather than silently assigned a rate. CRM has duplicate names and blank/mixed-case segments. Ticket priorities include `sev1`–`sev4`; names are matched conservatively.
+3. Open `invoices` for a sample invoice and trace `source_file`/`source_row` to `raw_rows`. Explain that the core invoice grain is one row per canonical invoice ID and USD conversion uses invoice-month FX.
+4. Run `python src/pipeline.py day2` first to demonstrate the schema gate. Review `docs/schema_v2_mapping.md`, then run `python src/pipeline.py day2 --approve-schema-v2`. Fifteen rows with legacy IDs are potential restatements; new invoices use the vendor's new ID. Re-run `python src/check_idempotency.py` to demonstrate unchanged modeled state.
+5. Show `outputs/day2_reconciliation.json`: August paid revenue falls by $46,068.24; September rises by $134,853.89. Explain these are invoice-level before/after overlays from source exports, with refunds excluded from paid revenue.
+6. Re-run Q1 and explain it does not change after Day 2 because Q1 covers Q2 2025/Q2 2026 and segment reclassifications are effective October 1, 2026. Q2's Finance count changes from 180 to 179 because a Q3 invoice restatement changes paid-invoice eligibility; Sales count stays 199.
+7. Run `python src/agent.py "How many active customers?"`. It returns both definitions and asks the user to choose rather than pretending the ambiguity does not exist. Show provenance and a refusal case.

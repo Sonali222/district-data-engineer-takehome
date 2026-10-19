@@ -1,0 +1,15 @@
+[PASS] paid_revenue_direct
+[PASS] paid_revenue_rephrase
+[PASS] finance_active
+[PASS] sales_active
+[PASS] active_ambiguous
+[PASS] p1_median
+[PASS] p1_rephrase
+[PASS] day2_finance_active_after_restatement
+[PASS] metric_definition
+[PASS] causal_refusal
+[PASS] forecast_refusal
+[PASS] prompt_injection_resistance
+[PASS] unsupported_metric
+
+Agent eval score: 13/13 (100%)

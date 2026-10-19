@@ -1,0 +1,1176 @@
+{
+ "schema_version": "2.0",
+ "exported_at": "2026-10-05T06:00:00Z",
+ "data": [
+  {
+   "id": "inv_001181",
+   "legacy_id": "INV-001181",
+   "account": {
+    "id": "ACC-00257",
+    "display_name": "Cyberdyne Systems"
+   },
+   "amount": {
+    "value": "17467.14",
+    "currency": "USD"
+   },
+   "state": "REFUNDED",
+   "issued_on": "2026-08-25",
+   "updated_at": "2026-10-02T20:07:00Z"
+  },
+  {
+   "id": "inv_900051",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00323",
+    "display_name": "Tyrell Systems"
+   },
+   "amount": {
+    "value": "17637.78",
+    "currency": "GBP"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T13:21:00Z"
+  },
+  {
+   "id": "inv_900010",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00148",
+    "display_name": "Dunder Holdings"
+   },
+   "amount": {
+    "value": "9891.19",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T14:06:00Z"
+  },
+  {
+   "id": "inv_900043",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00137",
+    "display_name": "Tyrell Energy"
+   },
+   "amount": {
+    "value": "1427.89",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T10:56:00Z"
+  },
+  {
+   "id": "inv_000789",
+   "legacy_id": "INV-000789",
+   "account": {
+    "id": "ACC-00158",
+    "display_name": "Massive Dynamic Energy"
+   },
+   "amount": {
+    "value": "20615.64",
+    "currency": "GBP"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-03",
+   "updated_at": "2026-10-01T12:59:00Z"
+  },
+  {
+   "id": "inv_900045",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00301",
+    "display_name": "Monarch Media"
+   },
+   "amount": {
+    "value": "12716.74",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T16:41:00Z"
+  },
+  {
+   "id": "inv_000949",
+   "legacy_id": "INV-000949",
+   "account": {
+    "id": "ACC-00188",
+    "display_name": "Hooli Financial"
+   },
+   "amount": {
+    "value": "33900.85",
+    "currency": "USD"
+   },
+   "state": "REFUNDED",
+   "issued_on": "2026-09-07",
+   "updated_at": "2026-10-02T15:28:00Z"
+  },
+  {
+   "id": "inv_900023",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00166",
+    "display_name": "Duff Logistics"
+   },
+   "amount": {
+    "value": "28531.16",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T14:48:00Z"
+  },
+  {
+   "id": "inv_003010",
+   "legacy_id": "INV-003010",
+   "account": {
+    "id": "ACC-00314",
+    "display_name": "Aperture Foods"
+   },
+   "amount": {
+    "value": "26337.13",
+    "currency": "USD"
+   },
+   "state": "REFUNDED",
+   "issued_on": "2026-09-16",
+   "updated_at": "2026-10-04T09:28:00Z"
+  },
+  {
+   "id": "inv_000541",
+   "legacy_id": "INV-000541",
+   "account": {
+    "id": "ACC-00109",
+    "display_name": "Vandelay Systems"
+   },
+   "amount": {
+    "value": "28601.10",
+    "currency": "USD"
+   },
+   "state": "REFUNDED",
+   "issued_on": "2026-08-17",
+   "updated_at": "2026-10-01T08:10:00Z"
+  },
+  {
+   "id": "inv_900055",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00158",
+    "display_name": "Massive Dynamic Energy"
+   },
+   "amount": {
+    "value": "6730.72",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T18:22:00Z"
+  },
+  {
+   "id": "inv_900032",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00275",
+    "display_name": "Wayne Financial"
+   },
+   "amount": {
+    "value": "27490.55",
+    "currency": "EUR"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T16:30:00Z"
+  },
+  {
+   "id": "inv_900007",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00110",
+    "display_name": "Black Mesa Logistics"
+   },
+   "amount": {
+    "value": "22981.17",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T12:17:00Z"
+  },
+  {
+   "id": "inv_900033",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00339",
+    "display_name": "Vandelay Logistics"
+   },
+   "amount": {
+    "value": "3944.74",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T17:38:00Z"
+  },
+  {
+   "id": "inv_900047",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00197",
+    "display_name": "Wayne Health"
+   },
+   "amount": {
+    "value": "33823.85",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T17:48:00Z"
+  },
+  {
+   "id": "inv_900035",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00184",
+    "display_name": "Massive Dynamic Media"
+   },
+   "amount": {
+    "value": "4469.56",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T10:03:00Z"
+  },
+  {
+   "id": "inv_900037",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00111",
+    "display_name": "Globex Foods"
+   },
+   "amount": {
+    "value": "29240.77",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T08:07:00Z"
+  },
+  {
+   "id": "inv_900034",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00263",
+    "display_name": "Northwind Telecom"
+   },
+   "amount": {
+    "value": "15273.41",
+    "currency": "EUR"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T13:22:00Z"
+  },
+  {
+   "id": "inv_900015",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00145",
+    "display_name": "Black Mesa Foods"
+   },
+   "amount": {
+    "value": "21636.43",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T16:27:00Z"
+  },
+  {
+   "id": "inv_900006",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00276",
+    "display_name": "Stark Energy"
+   },
+   "amount": {
+    "value": "19341.17",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T16:42:00Z"
+  },
+  {
+   "id": "inv_900060",
+   "legacy_id": null,
+   "account": {
+    "id": null,
+    "display_name": "Unknown"
+   },
+   "amount": {
+    "value": "8800.00",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T12:00:00Z"
+  },
+  {
+   "id": "inv_900018",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00153",
+    "display_name": "Oscorp Telecom"
+   },
+   "amount": {
+    "value": "5877.35",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T08:56:00Z"
+  },
+  {
+   "id": "inv_900054",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00216",
+    "display_name": "Pied Piper Labs"
+   },
+   "amount": {
+    "value": "14770.07",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T20:13:00Z"
+  },
+  {
+   "id": "inv_001012",
+   "legacy_id": "INV-001012",
+   "account": {
+    "id": "ACC-00323",
+    "display_name": "Tyrell Systems"
+   },
+   "amount": {
+    "value": "29714.96",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-26",
+   "updated_at": "2026-10-02T17:37:00Z"
+  },
+  {
+   "id": "inv_900057",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00901",
+    "display_name": "Stark Health"
+   },
+   "amount": {
+    "value": "34221.64",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T18:27:00Z"
+  },
+  {
+   "id": "inv_900021",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00314",
+    "display_name": "Aperture Foods"
+   },
+   "amount": {
+    "value": "12758.73",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T15:52:00Z"
+  },
+  {
+   "id": "inv_900020",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00338",
+    "display_name": "Vandelay Financial"
+   },
+   "amount": {
+    "value": "13273.22",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T13:12:00Z"
+  },
+  {
+   "id": "inv_900036",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00845",
+    "display_name": "Vandelay Holdings"
+   },
+   "amount": {
+    "value": "13593.66",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T20:04:00Z"
+  },
+  {
+   "id": "inv_001084",
+   "legacy_id": "INV-001084",
+   "account": {
+    "id": "ACC-00332",
+    "display_name": "Zorg Foods"
+   },
+   "amount": {
+    "value": "26772.72",
+    "currency": "GBP"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-14",
+   "updated_at": "2026-10-02T14:55:00Z"
+  },
+  {
+   "id": "inv_900028",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00302",
+    "display_name": "Ollivander Holdings"
+   },
+   "amount": {
+    "value": "19232.88",
+    "currency": "EUR"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T13:38:00Z"
+  },
+  {
+   "id": "inv_900016",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00279",
+    "display_name": "Kramerica Systems"
+   },
+   "amount": {
+    "value": "11101.01",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T11:58:00Z"
+  },
+  {
+   "id": "inv_001377",
+   "legacy_id": "INV-001377",
+   "account": {
+    "id": "ACC-00194",
+    "display_name": "Initech Media"
+   },
+   "amount": {
+    "value": "15417.45",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-13",
+   "updated_at": "2026-10-03T18:34:00Z"
+  },
+  {
+   "id": "inv_004047",
+   "legacy_id": "INV-004047",
+   "account": {
+    "id": "ACC-00184",
+    "display_name": "Massive Dynamic Media"
+   },
+   "amount": {
+    "value": "24726.88",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-08",
+   "updated_at": "2026-10-04T15:16:00Z"
+  },
+  {
+   "id": "inv_900059",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00293",
+    "display_name": "?"
+   },
+   "amount": {
+    "value": "5120.00",
+    "currency": "CAD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T10:00:00Z"
+  },
+  {
+   "id": "inv_900024",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00292",
+    "display_name": "Bluth Health"
+   },
+   "amount": {
+    "value": "17828.41",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T09:34:00Z"
+  },
+  {
+   "id": "inv_900025",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00151",
+    "display_name": "Prestige Foods"
+   },
+   "amount": {
+    "value": "39313.53",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T12:55:00Z"
+  },
+  {
+   "id": "inv_900029",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00335",
+    "display_name": "Umbrella Foods"
+   },
+   "amount": {
+    "value": "20883.33",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T13:24:00Z"
+  },
+  {
+   "id": "inv_900011",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00283",
+    "display_name": "Black Mesa Systems"
+   },
+   "amount": {
+    "value": "3655.36",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T17:33:00Z"
+  },
+  {
+   "id": "inv_900042",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00330",
+    "display_name": "Black Mesa Energy"
+   },
+   "amount": {
+    "value": "20177.77",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T11:38:00Z"
+  },
+  {
+   "id": "inv_900030",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00201",
+    "display_name": "Bluth Telecom"
+   },
+   "amount": {
+    "value": "35532.95",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T16:32:00Z"
+  },
+  {
+   "id": "inv_900046",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00246",
+    "display_name": "Black Mesa Holdings"
+   },
+   "amount": {
+    "value": "28168.86",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T15:20:00Z"
+  },
+  {
+   "id": "inv_001801",
+   "legacy_id": "INV-001801",
+   "account": {
+    "id": "ACC-00246",
+    "display_name": "Black Mesa Holdings"
+   },
+   "amount": {
+    "value": "25364.69",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-20",
+   "updated_at": "2026-10-04T19:06:00Z"
+  },
+  {
+   "id": "inv_900050",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00107",
+    "display_name": "Wonka Health"
+   },
+   "amount": {
+    "value": "17769.98",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T17:25:00Z"
+  },
+  {
+   "id": "inv_900017",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00186",
+    "display_name": "Soylent Labs"
+   },
+   "amount": {
+    "value": "32556.93",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T15:54:00Z"
+  },
+  {
+   "id": "inv_900019",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00219",
+    "display_name": "Dunder Foods"
+   },
+   "amount": {
+    "value": "14556.16",
+    "currency": "EUR"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T12:06:00Z"
+  },
+  {
+   "id": "inv_900052",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00203",
+    "display_name": "Nakatomi Media"
+   },
+   "amount": {
+    "value": "27404.03",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T19:14:00Z"
+  },
+  {
+   "id": "inv_900009",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00139",
+    "display_name": "Hooli Systems"
+   },
+   "amount": {
+    "value": "32089.85",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T17:32:00Z"
+  },
+  {
+   "id": "inv_900005",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00115",
+    "display_name": "Tyrell Telecom"
+   },
+   "amount": {
+    "value": "25566.21",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T19:20:00Z"
+  },
+  {
+   "id": "inv_900056",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00900",
+    "display_name": "Cyberdyne Media"
+   },
+   "amount": {
+    "value": "39868.07",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T14:44:00Z"
+  },
+  {
+   "id": "inv_900008",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00181",
+    "display_name": "Wayne Holdings"
+   },
+   "amount": {
+    "value": "34884.42",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T14:53:00Z"
+  },
+  {
+   "id": "inv_900038",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00230",
+    "display_name": "Northwind Logistics"
+   },
+   "amount": {
+    "value": "23021.14",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T14:59:00Z"
+  },
+  {
+   "id": "inv_900004",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00299",
+    "display_name": "Wayne Labs"
+   },
+   "amount": {
+    "value": "31657.81",
+    "currency": "EUR"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T14:32:00Z"
+  },
+  {
+   "id": "inv_900049",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00250",
+    "display_name": "Dunder Systems"
+   },
+   "amount": {
+    "value": "35005.91",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T19:12:00Z"
+  },
+  {
+   "id": "inv_001991",
+   "legacy_id": "INV-001991",
+   "account": {
+    "id": "ACC-00255",
+    "display_name": "Hooli Energy"
+   },
+   "amount": {
+    "value": "8967.65",
+    "currency": "EUR"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-08",
+   "updated_at": "2026-10-02T11:14:00Z"
+  },
+  {
+   "id": "inv_900039",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00236",
+    "display_name": "Aperture Energy"
+   },
+   "amount": {
+    "value": "4348.67",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T20:06:00Z"
+  },
+  {
+   "id": "inv_900058",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00990",
+    "display_name": "Tyrell Labs"
+   },
+   "amount": {
+    "value": "1875.16",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T15:37:00Z"
+  },
+  {
+   "id": "inv_900026",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00247",
+    "display_name": "Monarch Systems"
+   },
+   "amount": {
+    "value": "5236.38",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T15:40:00Z"
+  },
+  {
+   "id": "inv_900031",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00188",
+    "display_name": "Hooli Financial"
+   },
+   "amount": {
+    "value": "6100.45",
+    "currency": "EUR"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T09:45:00Z"
+  },
+  {
+   "id": "inv_900003",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00119",
+    "display_name": "Duff Foods"
+   },
+   "amount": {
+    "value": "20777.64",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T20:37:00Z"
+  },
+  {
+   "id": "inv_003513",
+   "legacy_id": "INV-003513",
+   "account": {
+    "id": "ACC-00266",
+    "display_name": "Cyberdyne Energy"
+   },
+   "amount": {
+    "value": "4652.97",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-06",
+   "updated_at": "2026-10-04T08:23:00Z"
+  },
+  {
+   "id": "inv_900053",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00224",
+    "display_name": "Wayne Energy"
+   },
+   "amount": {
+    "value": "31854.73",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T16:53:00Z"
+  },
+  {
+   "id": "inv_900041",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00229",
+    "display_name": "Sirius Health"
+   },
+   "amount": {
+    "value": "6641.86",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T18:43:00Z"
+  },
+  {
+   "id": "inv_900050",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00107",
+    "display_name": "Wonka Health"
+   },
+   "amount": {
+    "value": "17769.98",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T17:25:00Z"
+  },
+  {
+   "id": "inv_900022",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00326",
+    "display_name": "Prestige Media"
+   },
+   "amount": {
+    "value": "4335.94",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T14:58:00Z"
+  },
+  {
+   "id": "inv_003914",
+   "legacy_id": "INV-003914",
+   "account": {
+    "id": "ACC-00157",
+    "display_name": "Globex Logistics"
+   },
+   "amount": {
+    "value": "33514.52",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-10",
+   "updated_at": "2026-10-04T16:07:00Z"
+  },
+  {
+   "id": "inv_900040",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00126",
+    "display_name": "Bluth Foods"
+   },
+   "amount": {
+    "value": "11125.33",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T08:08:00Z"
+  },
+  {
+   "id": "inv_900026",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00247",
+    "display_name": "Monarch Systems"
+   },
+   "amount": {
+    "value": "5236.38",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T15:40:00Z"
+  },
+  {
+   "id": "inv_900044",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00328",
+    "display_name": "Kramerica Logistics"
+   },
+   "amount": {
+    "value": "31955.75",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T12:58:00Z"
+  },
+  {
+   "id": "inv_900048",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00114",
+    "display_name": "Acme Foods"
+   },
+   "amount": {
+    "value": "36113.65",
+    "currency": "USD"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T15:36:00Z"
+  },
+  {
+   "id": "inv_900014",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00333",
+    "display_name": "Soylent Financial"
+   },
+   "amount": {
+    "value": "27430.99",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T13:55:00Z"
+  },
+  {
+   "id": "inv_900012",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00340",
+    "display_name": "Northwind Labs"
+   },
+   "amount": {
+    "value": "11942.81",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T16:03:00Z"
+  },
+  {
+   "id": "inv_001545",
+   "legacy_id": "INV-001545",
+   "account": {
+    "id": "ACC-00207",
+    "display_name": "Globex Systems"
+   },
+   "amount": {
+    "value": "10672.01",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-09-08",
+   "updated_at": "2026-10-02T12:37:00Z"
+  },
+  {
+   "id": "inv_900013",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00185",
+    "display_name": "Sirius Telecom"
+   },
+   "amount": {
+    "value": "16051.84",
+    "currency": "GBP"
+   },
+   "state": "OPEN",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T16:12:00Z"
+  },
+  {
+   "id": "inv_900025",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00151",
+    "display_name": "Prestige Foods"
+   },
+   "amount": {
+    "value": "39313.53",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-04",
+   "updated_at": "2026-10-04T12:55:00Z"
+  },
+  {
+   "id": "inv_900001",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00306",
+    "display_name": "Duff Health"
+   },
+   "amount": {
+    "value": "18077.33",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-03",
+   "updated_at": "2026-10-03T14:29:00Z"
+  },
+  {
+   "id": "inv_900002",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00280",
+    "display_name": "Nakatomi Foods"
+   },
+   "amount": {
+    "value": "25867.16",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-02",
+   "updated_at": "2026-10-02T19:57:00Z"
+  },
+  {
+   "id": "inv_900027",
+   "legacy_id": null,
+   "account": {
+    "id": "ACC-00297",
+    "display_name": "Acme Media"
+   },
+   "amount": {
+    "value": "24011.67",
+    "currency": "USD"
+   },
+   "state": "PAID",
+   "issued_on": "2026-10-01",
+   "updated_at": "2026-10-01T20:30:00Z"
+  },
+  {
+   "id": "inv_000740",
+   "legacy_id": "INV-000740",
+   "account": {
+    "id": "ACC-00297",
+    "display_name": "Acme Media"
+   },
+   "amount": {
+    "value": "18808.26",
+    "currency": "USD"
+   },
+   "state": "REFUNDED",
+   "issued_on": "2026-09-07",
+   "updated_at": "2026-10-04T13:35:00Z"
+  }
+ ]
+}

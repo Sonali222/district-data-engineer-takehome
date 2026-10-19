@@ -1,0 +1,15 @@
+{
+  "checks": {
+    "unique_invoice_ids": 1,
+    "no_invalid_status": 1,
+    "positive_fx": 1,
+    "valid_ticket_priority": 1,
+    "nonnegative_close_time": 1,
+    "invoice_join_coverage_at_least_95pct": true,
+    "ticket_join_coverage_at_least_75pct": true
+  },
+  "passed": 7,
+  "total": 7,
+  "invoice_join_coverage": 98.53,
+  "ticket_join_coverage": 78.23
+}

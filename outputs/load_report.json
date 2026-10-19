@@ -1,0 +1,102 @@
+[
+  {
+    "load_id": "day1-v1",
+    "source_file": "data/v1/billing_invoices.json",
+    "received": 4246,
+    "loaded": 4209,
+    "updated": 0,
+    "deduplicated": 18,
+    "quarantined": 19,
+    "details": ""
+  },
+  {
+    "load_id": "day1-v1",
+    "source_file": "data/v1/crm_accounts.csv",
+    "received": 252,
+    "loaded": 252,
+    "updated": 0,
+    "deduplicated": 0,
+    "quarantined": 0,
+    "details": "duplicate_name_groups=4"
+  },
+  {
+    "load_id": "day1-v1",
+    "source_file": "data/v1/fx_rates.csv",
+    "received": 41,
+    "loaded": 41,
+    "updated": 0,
+    "deduplicated": 0,
+    "quarantined": 0,
+    "details": ""
+  },
+  {
+    "load_id": "day1-v1",
+    "source_file": "data/v1/support_tickets.jsonl",
+    "received": 1100,
+    "loaded": 1093,
+    "updated": 0,
+    "deduplicated": 0,
+    "quarantined": 7,
+    "details": ""
+  },
+  {
+    "load_id": "day2-2026-10-05",
+    "source_file": "data/day2/billing_invoices_v2.json",
+    "received": 78,
+    "loaded": 59,
+    "updated": 15,
+    "deduplicated": 3,
+    "quarantined": 1,
+    "details": "schema v2 approved; legacy_id used for restatements; id used for new invoices"
+  },
+  {
+    "load_id": "day2-2026-10-05",
+    "source_file": "data/day2/crm_accounts_2026-10-05.csv",
+    "received": 255,
+    "loaded": 3,
+    "updated": 6,
+    "deduplicated": 246,
+    "quarantined": 0,
+    "details": "duplicate_name_groups=4"
+  },
+  {
+    "load_id": "day2-2026-10-05",
+    "source_file": "data/day2/fx_rates_2026-10.csv",
+    "received": 2,
+    "loaded": 2,
+    "updated": 0,
+    "deduplicated": 0,
+    "quarantined": 0,
+    "details": ""
+  },
+  {
+    "load_id": "day2-idempotency-check",
+    "source_file": "data/day2/billing_invoices_v2.json",
+    "received": 78,
+    "loaded": 0,
+    "updated": 74,
+    "deduplicated": 3,
+    "quarantined": 1,
+    "details": "schema v2 approved; legacy_id used for restatements; id used for new invoices"
+  },
+  {
+    "load_id": "day2-idempotency-check",
+    "source_file": "data/day2/crm_accounts_2026-10-05.csv",
+    "received": 255,
+    "loaded": 0,
+    "updated": 0,
+    "deduplicated": 255,
+    "quarantined": 0,
+    "details": "duplicate_name_groups=4"
+  },
+  {
+    "load_id": "day2-idempotency-check",
+    "source_file": "data/day2/fx_rates_2026-10.csv",
+    "received": 2,
+    "loaded": 2,
+    "updated": 0,
+    "deduplicated": 0,
+    "quarantined": 0,
+    "details": ""
+  }
+]

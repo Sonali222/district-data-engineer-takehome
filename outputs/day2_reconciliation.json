@@ -1,0 +1,206 @@
+{
+  "method": "Independent aggregation from source exports, not queried from modeled invoice table. FX uses invoice month; per-invoice USD rounded to cents. Missing FX is excluded from the numeric total and disclosed separately.",
+  "months": {
+    "2026-08": {
+      "before": {
+        "paid_revenue_usd": 3253438.9,
+        "paid_invoices_missing_fx": 0,
+        "paid_invoice_count": 161
+      },
+      "after": {
+        "paid_revenue_usd": 3207370.66,
+        "paid_invoices_missing_fx": 0,
+        "paid_invoice_count": 159
+      },
+      "delta_usd": -46068.24
+    },
+    "2026-09": {
+      "before": {
+        "paid_revenue_usd": 1383165.85,
+        "paid_invoices_missing_fx": 0,
+        "paid_invoice_count": 71
+      },
+      "after": {
+        "paid_revenue_usd": 1518019.74,
+        "paid_invoices_missing_fx": 0,
+        "paid_invoice_count": 78
+      },
+      "delta_usd": 134853.89
+    }
+  },
+  "change_breakdown": {
+    "2026-08": {
+      "paid_to_nonpaid_restatement": {
+        "rows": 2,
+        "delta_paid_usd": -46068.24
+      }
+    },
+    "2026-09": {
+      "nonpaid_to_paid_restatement": {
+        "rows": 10,
+        "delta_paid_usd": 213900.13
+      },
+      "paid_to_nonpaid_restatement": {
+        "rows": 3,
+        "delta_paid_usd": -79046.24
+      }
+    }
+  },
+  "changed_invoice_details": [
+    {
+      "invoice_key": "INV-001181",
+      "month": "2026-08",
+      "kind": "paid_to_nonpaid_restatement",
+      "prior_status": "paid",
+      "new_status": "refunded",
+      "prior_paid_usd": 17467.14,
+      "new_paid_usd": 0,
+      "delta_paid_usd": -17467.14
+    },
+    {
+      "invoice_key": "INV-000789",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 26165.37,
+      "delta_paid_usd": 26165.37
+    },
+    {
+      "invoice_key": "INV-000949",
+      "month": "2026-09",
+      "kind": "paid_to_nonpaid_restatement",
+      "prior_status": "paid",
+      "new_status": "refunded",
+      "prior_paid_usd": 33900.85,
+      "new_paid_usd": 0,
+      "delta_paid_usd": -33900.85
+    },
+    {
+      "invoice_key": "INV-003010",
+      "month": "2026-09",
+      "kind": "paid_to_nonpaid_restatement",
+      "prior_status": "paid",
+      "new_status": "refunded",
+      "prior_paid_usd": 26337.13,
+      "new_paid_usd": 0,
+      "delta_paid_usd": -26337.13
+    },
+    {
+      "invoice_key": "INV-000541",
+      "month": "2026-08",
+      "kind": "paid_to_nonpaid_restatement",
+      "prior_status": "paid",
+      "new_status": "refunded",
+      "prior_paid_usd": 28601.1,
+      "new_paid_usd": 0,
+      "delta_paid_usd": -28601.1
+    },
+    {
+      "invoice_key": "INV-001012",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 29714.96,
+      "delta_paid_usd": 29714.96
+    },
+    {
+      "invoice_key": "INV-001084",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 33979.94,
+      "delta_paid_usd": 33979.94
+    },
+    {
+      "invoice_key": "INV-001377",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 15417.45,
+      "delta_paid_usd": 15417.45
+    },
+    {
+      "invoice_key": "INV-004047",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 24726.88,
+      "delta_paid_usd": 24726.88
+    },
+    {
+      "invoice_key": "INV-001801",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 25364.69,
+      "delta_paid_usd": 25364.69
+    },
+    {
+      "invoice_key": "INV-001991",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 9691.34,
+      "delta_paid_usd": 9691.34
+    },
+    {
+      "invoice_key": "INV-003513",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 4652.97,
+      "delta_paid_usd": 4652.97
+    },
+    {
+      "invoice_key": "INV-003914",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 33514.52,
+      "delta_paid_usd": 33514.52
+    },
+    {
+      "invoice_key": "INV-001545",
+      "month": "2026-09",
+      "kind": "nonpaid_to_paid_restatement",
+      "prior_status": "open",
+      "new_status": "paid",
+      "prior_paid_usd": 0,
+      "new_paid_usd": 10672.01,
+      "delta_paid_usd": 10672.01
+    },
+    {
+      "invoice_key": "INV-000740",
+      "month": "2026-09",
+      "kind": "paid_to_nonpaid_restatement",
+      "prior_status": "paid",
+      "new_status": "refunded",
+      "prior_paid_usd": 18808.26,
+      "new_paid_usd": 0,
+      "delta_paid_usd": -18808.26
+    }
+  ],
+  "v2_rows": {
+    "received": 78,
+    "rows_with_legacy_id": 15,
+    "new_invoice_rows": 63
+  }
+}

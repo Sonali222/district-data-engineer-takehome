@@ -1,0 +1,93 @@
+{
+  "Q1_paid_revenue_by_segment_usd": {
+    "Q2 2026": {
+      "ENTERPRISE": 3637367.71,
+      "MID-MARKET": 2626957.55,
+      "SMB": 3108385.99,
+      "UNKNOWN": 234547.87,
+      "UNMATCHED": 184324.87
+    },
+    "Q2 2025": {
+      "ENTERPRISE": 4086134.8,
+      "MID-MARKET": 3562948.38,
+      "SMB": 3934165.72,
+      "UNKNOWN": 255987.72,
+      "UNMATCHED": 141260.07
+    }
+  },
+  "Q2_active_customers": {
+    "finance": 179,
+    "sales": 199
+  },
+  "Q3_median_P1_close_hours_2026": 20.73,
+  "Q4_top10_trailing12m": [
+    {
+      "account_id": "ACC-00135",
+      "account_name": "Black Mesa Telecom",
+      "paid_revenue_usd": 433896.45,
+      "tickets": 1
+    },
+    {
+      "account_id": "ACC-00293",
+      "account_name": "Pied Piper Holdings",
+      "paid_revenue_usd": 431284.2,
+      "tickets": 2
+    },
+    {
+      "account_id": "ACC-00307",
+      "account_name": "Zorg Systems",
+      "paid_revenue_usd": 418066.51,
+      "tickets": 5
+    },
+    {
+      "account_id": "ACC-00845",
+      "account_name": "Vandelay Holdings Corp",
+      "paid_revenue_usd": 415111.89,
+      "tickets": 0
+    },
+    {
+      "account_id": "ACC-00264",
+      "account_name": "Acme Systems",
+      "paid_revenue_usd": 412225.67,
+      "tickets": 4
+    },
+    {
+      "account_id": "ACC-00842",
+      "account_name": "Nakatomi Logistics (Legacy)",
+      "paid_revenue_usd": 410650.37,
+      "tickets": 0
+    },
+    {
+      "account_id": "ACC-00218",
+      "account_name": "Umbrella Labs",
+      "paid_revenue_usd": 409295.4,
+      "tickets": 1
+    },
+    {
+      "account_id": "ACC-00234",
+      "account_name": "Duff Energy",
+      "paid_revenue_usd": 408643.58,
+      "tickets": 4
+    },
+    {
+      "account_id": "ACC-00202",
+      "account_name": "Soylent Energy",
+      "paid_revenue_usd": 401650.58,
+      "tickets": 2
+    },
+    {
+      "account_id": "ACC-00247",
+      "account_name": "Monarch Systems",
+      "paid_revenue_usd": 400276.68,
+      "tickets": 1
+    }
+  ],
+  "Q5_H1_2025_billed_no_paid_or_open_since_2026_04_01": 39,
+  "Q7_oct1_4_paid_revenue_by_segment_usd": {
+    "ENTERPRISE": 434759.4,
+    "MID-MARKET": 280474.58,
+    "SMB": 173372.91,
+    "UNKNOWN": 14770.07,
+    "UNMATCHED": 8800.0
+  }
+}
