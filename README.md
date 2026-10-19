@@ -1,4 +1,4 @@
-# Meridian AI Data Engineer Take-Home
+# AI Data Engineer Take-Home
 
 A reproducible, local-first implementation of the District Technologies take-home. Python's standard library and SQLite are used so a reviewer can run the pipeline without cloud credentials or an API key. SQLite is the lightweight queryable store; a production version could swap in DuckDB/Postgres behind the same modeling conventions.
 
